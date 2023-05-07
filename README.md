@@ -1,2 +1,5 @@
-# deep-learning-class-project
- Solving Cart Pole with deep reinforcement learning.
+# Class Project for ICCS 463 (Deep Learning)
+Solving Cart Pole with:
+1. Q-Learning (Discretized Version)
+2. Deep Q-Learning
+3. Double Deep Q-Learning
